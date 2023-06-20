@@ -81,6 +81,7 @@ a:hover {
     align-items: center;
 }
 
+
 .slider {
     margin: 0 auto;
     width: 800px;
@@ -175,4 +176,3 @@ a:hover {
 #radio3:checked ~ .navigation-auto .auto-btn3 {
     background-color: #10d069;
 }
-
